@@ -1,0 +1,13 @@
+:root{
+  --primary-color: #000000;
+  --secondary-color: #ffffff;
+  --error-color: #ff3a3a;
+}
+
+.layout {
+  padding-bottom: 4rem;
+}
+
+.input-error {
+  color: var(--error-color);
+}
